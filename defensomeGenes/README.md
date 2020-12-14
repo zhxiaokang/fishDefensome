@@ -1,0 +1,1 @@
+Build the chemical defensome gene list for 5 fish: Zebrafish (*Danio rerio*), Atlantic cod (*Gadus morhua*), medaka (*Oryzias latipes*), Atlantic killifish (*Fundulus heteroclitus*) and stickleback (*Gasterosteus aculeatus*)
