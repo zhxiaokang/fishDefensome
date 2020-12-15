@@ -1,0 +1,16 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	SRR5892249.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892249_count.tsv.summary
+featureCounts	all_sections	SRR5892250.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892250_count.tsv.summary
+featureCounts	all_sections	SRR5892251.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892251_count.tsv.summary
+featureCounts	all_sections	SRR5892252.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892252_count.tsv.summary
+featureCounts	all_sections	SRR5892253.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892253_count.tsv.summary
+featureCounts	all_sections	SRR5892254.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892254_count.tsv.summary
+featureCounts	all_sections	SRR5892255.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892255_count.tsv.summary
+featureCounts	all_sections	SRR5892256.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892256_count.tsv.summary
+featureCounts	all_sections	SRR5892257.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892257_count.tsv.summary
+featureCounts	all_sections	SRR5892258.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892258_count.tsv.summary
+featureCounts	all_sections	SRR5892259.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892259_count.tsv.summary
+featureCounts	all_sections	SRR5892260.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892260_count.tsv.summary
+featureCounts	all_sections	SRR5892261.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892261_count.tsv.summary
+featureCounts	all_sections	SRR5892262.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892262_count.tsv.summary
+featureCounts	all_sections	SRR5892263.sort	/export/jonassenfs/xiaokangz/project/RASflow_stickleback_developmental/RASflow/output/stick_dev/genome/countFile/SRR5892263_count.tsv.summary
