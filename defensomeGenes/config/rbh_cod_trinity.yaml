@@ -1,0 +1,8 @@
+INPUTPATH: "/export/jonassenfs/xiaokangz/project/data/codDefensome/input"
+OUTPUTPATH: "/export/jonassenfs/xiaokangz/project/data/codDefensome/output/rbh/trinity"
+
+PEP_SEQ: "/export/jonassenfs/xiaokangz/project/data/codDefensome/input/trinity_list3amino_blastbased.fasta"
+
+E_HMMSEARCH: 10
+EVALUE_BLAST: 10
+NCORE: 30

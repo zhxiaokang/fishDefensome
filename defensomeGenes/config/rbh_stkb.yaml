@@ -1,0 +1,8 @@
+INPUTPATH: "/export/jonassenfs/xiaokangz/project/data/codDefensome/input"
+OUTPUTPATH: "/export/jonassenfs/xiaokangz/project/data/codDefensome/output/rbh/stkb"
+
+PEP_SEQ: "/export/jonassenfs/xiaokangz/project/data/codDefensome/input/Gasterosteus_aculeatus.BROADS1.pep.all.fa"
+
+E_HMMSEARCH: 10
+EVALUE_BLAST: 10
+NCORE: 20

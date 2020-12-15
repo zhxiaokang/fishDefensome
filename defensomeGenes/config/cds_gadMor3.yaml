@@ -1,0 +1,4 @@
+INPUTPATH: "data/input"
+OUTPUTPATH: "data/output/search_name_cds_gadMor3"
+CDS: "data/input/GCF_902167405.1_gadMor3.0_cds_from_genomic.fna"
+

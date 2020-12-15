@@ -1,0 +1,8 @@
+INPUTPATH: "/export/jonassenfs/xiaokangz/project/data/codDefensome/input"
+OUTPUTPATH: "/export/jonassenfs/xiaokangz/project/data/codDefensome/output/rbh/fdls"
+
+PEP_SEQ: "/export/jonassenfs/xiaokangz/project/data/codDefensome/input/Fundulus_heteroclitus-3.0.2.pep.all.fa"
+
+E_HMMSEARCH: 10
+EVALUE_BLAST: 10
+NCORE: 20
