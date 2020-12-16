@@ -1,0 +1,13 @@
+Status	data/output/stick_dev/genome/bamFileSort/SRR5892259.sort.bam
+Assigned	8613172
+Unassigned_Unmapped	2392492
+Unassigned_MappingQuality	0
+Unassigned_Chimera	0
+Unassigned_FragmentLength	0
+Unassigned_Duplicate	0
+Unassigned_MultiMapping	1235741
+Unassigned_Secondary	0
+Unassigned_NonSplit	0
+Unassigned_NoFeatures	3680485
+Unassigned_Overlapping_Length	0
+Unassigned_Ambiguity	62199
