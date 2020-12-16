@@ -1,0 +1,632 @@
+category	geneName	Gene_ID	Gene_Name	cleavage_2-cell	blastula_1k-cell	gastrula_50%-epiboly	segmentation_1-4_somites	larval_protruding_mouth
+ABC_transporters	abcb10	ENSDARG00000061591	abcb10	4	10	17	9	8
+ABC_transporters	abcb11a	ENSDARG00000011573	abcb11a	2	10	1	21	6
+ABC_transporters	abcb11b	ENSDARG00000070078	abcb11b					3
+ABC_transporters	abcb4	ENSDARG00000010936	abcb4	3	6	0.3		7
+ABC_transporters	abcb5	ENSDARG00000021787	abcb5	6	11	16	11	34
+ABC_transporters	abcb6a	ENSDARG00000063297	abcb6a	69	84	79	6	7
+ABC_transporters	abcb6b	ENSDARG00000074254	abcb6b	31	39	18	4	2
+ABC_transporters	abcb7	ENSDARG00000062795	abcb7	60	73	36	38	27
+ABC_transporters	abcb8	ENSDARG00000056672	abcb8	43	41	5	11	15
+ABC_transporters	abcb9							
+ABC_transporters	abcb9	ENSDARG00000056200	abcb9			0.3	0.2	5
+ABC_transporters	abcc1	ENSDARG00000104719	abcc1	4	17	2	5	9
+ABC_transporters	abcc10							
+ABC_transporters	abcc10							
+ABC_transporters	abcc10	ENSDARG00000077988	abcc10	43	77	9	8	5
+ABC_transporters	abcc12	ENSDARG00000013050	abcc12	0.9	2	0.1		4
+ABC_transporters	abcc13	ENSDARG00000062519	abcc13	3	5		1	2
+ABC_transporters	abcc2							
+ABC_transporters	abcc2	ENSDARG00000014031	abcc2				14	16
+ABC_transporters	abcc3	ENSDARG00000096662	abcc3	0.1	0.4	8	8	11
+ABC_transporters	abcc4							
+ABC_transporters	abcc4	ENSDARG00000058953	abcc4	2	10	3	12	8
+ABC_transporters	abcc5	ENSDARG00000061233	abcc5	4	3	9	18	38
+ABC_transporters	abcc6a	ENSDARG00000016750	abcc6a		0.3		0.6	0.9
+ABC_transporters	abcc6b.1	ENSDARG00000105403	abcc6b.1		0.7			0.3
+ABC_transporters	abcc6b.2	ENSDARG00000094901	abcc6b.2			10	0.8	0.9
+ABC_transporters	abcc8							
+ABC_transporters	abcc8	ENSDARG00000051879	abcc8		0.3	3		7
+ABC_transporters	abcc8b	ENSDARG00000077007	abcc8b					3
+ABC_transporters	abcc9	ENSDARG00000015985	abcc9				0.4	9
+ABC_transporters	abcg1	ENSDARG00000063475	abcg1		0.6	0.2	0.2	2
+ABC_transporters	abcg2a	ENSDARG00000100075	abcg2a	16	8	3	3	18
+ABC_transporters	abcg2b							
+ABC_transporters	abcg2b	ENSDARG00000079361	abcg2b					0.6
+ABC_transporters	abcg2c	ENSDARG00000058574	abcg2c	0.9	9	6	11	9
+ABC_transporters	abcg2d	ENSDARG00000016818	abcg2d					3
+ABC_transporters	abcg4a	ENSDARG00000061047	abcg4a	1	1	1		5
+ABC_transporters	abcg4b	ENSDARG00000078068	abcg4b				0.2	3
+ABC_transporters	abcg5							
+ABC_transporters	abcg5	ENSDARG00000063078	abcg5					1
+ABC_transporters	abcg8							
+ABC_transporters	abcg8	ENSDARG00000063059	abcg8					0.6
+Antioxidants	TXN	ENSDARG00000031435	TXN	31	189	290	640	282
+Antioxidants	cat	ENSDARG00000104702	cat	454	288	99	3	77
+Antioxidants	gclc	ENSDARG00000013095	gclc	145	148	95	46	29
+Antioxidants	gclm	ENSDARG00000018953	gclm	122	117	69	30	18
+Antioxidants	gpx1a							
+Antioxidants	gpx1a	ENSDARG00000018146	gpx1a	8	22	31	50	75
+Antioxidants	gpx1b	ENSDARG00000006207	gpx1b	32	14	16	7	18
+Antioxidants	gpx3	ENSDARG00000043342	gpx3				0.2	5
+Antioxidants	gpx4a	ENSDARG00000068478	gpx4a	7	9	18	429	195
+Antioxidants	gpx4b	ENSDARG00000076836	gpx4b	35	71	158	278	308
+Antioxidants	gpx7	ENSDARG00000091511	gpx7				14	27
+Antioxidants	gpx8	ENSDARG00000013302	gpx8	17	101	18	43	13
+Antioxidants	gpx9	ENSDARG00000003077	gpx9				0.4	12
+Antioxidants	gsr							
+Antioxidants	gsr	ENSDARG00000019236	gsr	22	25	22	23	19
+Antioxidants	gss							
+Antioxidants	gss	ENSDARG00000037706	gss	10	28	27	3	4
+Antioxidants	nme8	ENSDARG00000098944	nme8				0.5	1
+Antioxidants	prdx1	ENSDARG00000058734	prdx1	25	100	79	28	48
+Antioxidants	prdx2	ENSDARG00000025350	prdx2	78	264	118	127	475
+Antioxidants	prdx3							
+Antioxidants	prdx3	ENSDARG00000032102	prdx3	77	123	72	42	123
+Antioxidants	prdx4	ENSDARG00000069013	prdx4	6	27	13	55	91
+Antioxidants	prdx5	ENSDARG00000055064	prdx5	1	4	8	208	178
+Antioxidants	prdx6							
+Antioxidants	prdx6	ENSDARG00000043511	prdx6	28	94	71	27	106
+Antioxidants	sod1	ENSDARG00000043848	sod1	130	203	25	23	108
+Antioxidants	sod2	ENSDARG00000042644	sod2	7	90	79	4	81
+Antioxidants	sod3a	ENSDARG00000070168	sod3a				3	3
+Antioxidants	sod3b	ENSDARG00000079183	sod3b					1
+Antioxidants	txn							
+Antioxidants	txn	ENSDARG00000044125	txn			2	72	36
+Antioxidants	txn2	ENSDARG00000034777	txn2	74	22	41	102	83
+Antioxidants	txnl1	ENSDARG00000011921	txnl1	258	138	232	218	81
+Antioxidants	txnl4a	ENSDARG00000036190	txnl4a	152	171	159	98	51
+Antioxidants	txnl4b	ENSDARG00000058962	txnl4b	91	61	15	11	7
+HLH-PAS	NPAS3							
+HLH-PAS	ahr1a	ENSDARG00000020046	ahr1a				0.5	0.6
+HLH-PAS	ahr1b	ENSDARG00000023537	ahr1b					9
+HLH-PAS	ahr2	ENSDARG00000021833	ahr2	5	12	4	1	29
+HLH-PAS	ahrra	ENSDARG00000099702	ahrra		2			0.7
+HLH-PAS	ahrrb							
+HLH-PAS	ahrrb							
+HLH-PAS	ahrrb	ENSDARG00000052618	ahrrb	0.5	2			
+HLH-PAS	arnt							
+HLH-PAS	arnt	ENSDARG00000021855	arnt	20	28	12	6	8
+HLH-PAS	arnt2	ENSDARG00000103697	arnt2	13	21	15	20	28
+HLH-PAS	arntl1a	ENSDARG00000006791	arntl1a	222	151	8	14	23
+HLH-PAS	arntl1b							
+HLH-PAS	arntl1b	ENSDARG00000035732	arntl1b	2	12	3	4	7
+HLH-PAS	arntl2							
+HLH-PAS	arntl2							
+HLH-PAS	arntl2	ENSDARG00000041381	arntl2	61	83	12	10	7
+HLH-PAS	clocka	ENSDARG00000011703	clocka	4	8	0.8	1	4
+HLH-PAS	clockb	ENSDARG00000003631	clockb	40	54	7	11	17
+HLH-PAS	hif1aa	ENSDARG00000006181	hif1aa	7	5	2		7
+HLH-PAS	hif1ab	ENSDARG00000034293	hif1ab	28	154	160	111	84
+HLH-PAS	hif1al	ENSDARG00000100826	hif1al	54	47	161	141	164
+HLH-PAS	hif1al2	ENSDARG00000044550	hif1al2		0.6			3
+HLH-PAS	hif1an	ENSDARG00000031915	hif1an	128	134	31	28	20
+HLH-PAS	ncoa1	ENSDARG00000018257	ncoa1	0.6	4	2	6	7
+HLH-PAS	ncoa2	ENSDARG00000017929	ncoa2	16	46	20	39	25
+HLH-PAS	ncoa3	ENSDARG00000077404	ncoa3	18	39	27	26	20
+HLH-PAS	ncoa4	ENSDARG00000021439	ncoa4	285	169	74	55	58
+HLH-PAS	ncoa5	ENSDARG00000016345	ncoa5	103	112	260	253	73
+HLH-PAS	ncoa6	ENSDARG00000071272	ncoa6	53	63	24	33	17
+HLH-PAS	npas1	ENSDARG00000015876	npas1					5
+HLH-PAS	npas2							
+HLH-PAS	npas2	ENSDARG00000016536	npas2		0.5	0.1	2	5
+HLH-PAS	npas4a	ENSDARG00000055752	npas4a					7
+HLH-PAS	npas4l							
+HLH-PAS	per1a	ENSDARG00000056885	per1a				0.5	8
+HLH-PAS	per1b	ENSDARG00000012499	per1b	2	9	3	32	43
+HLH-PAS	per2	ENSDARG00000034503	per2	19	35	10	8	21
+HLH-PAS	per3	ENSDARG00000010519	per3	3	12	6	11	13
+HLH-PAS	sim1a	ENSDARG00000023316	sim1a				1	1
+HLH-PAS	sim1b	ENSDARG00000013789	sim1b	0.2	2			4
+Heat_response	CLPB	ENSDARG00000088463	CLPB	10	10	5	0.8	5
+Heat_response	clpb	ENSDARG00000090232	clpb	23	24	8	3	15
+Heat_response	clpxa	ENSDARG00000029063	clpxa	50	81	55	25	46
+Heat_response	clpxb	ENSDARG00000067796	clpxb	3	13	6	10	22
+Heat_response	cryaa							
+Heat_response	cryaa	ENSDARG00000053502	cryaa					61
+Heat_response	cryaba							
+Heat_response	cryabb							
+Heat_response	cryabb	ENSDARG00000101380	cryabb				0.3	0.3
+Heat_response	dnaja1	ENSDARG00000030972	dnaja1	15	47	69	46	16
+Heat_response	dnaja2a	ENSDARG00000104066	dnaja2a	97	547	601	469	149
+Heat_response	dnaja2b	ENSDARG00000010745	dnaja2b	39	85	115	191	108
+Heat_response	dnaja3a							
+Heat_response	dnaja3a	ENSDARG00000058494	dnaja3a	31	143	12	29	21
+Heat_response	dnaja3b	ENSDARG00000102295	dnaja3b	28	32	4	4	9
+Heat_response	dnajb11	ENSDARG00000015088	dnajb11	117	225	44	68	63
+Heat_response	dnajb12a	ENSDARG00000039363	dnajb12a	143	185	62	44	27
+Heat_response	dnajb12b	ENSDARG00000087473	dnajb12b	75	31	12	10	15
+Heat_response	dnajb13	ENSDARG00000043157	dnajb13				1	
+Heat_response	dnajb14	ENSDARG00000069996	dnajb14			3	4	6
+Heat_response	dnajb1a	ENSDARG00000099383	dnajb1a	32	43	6	13	13
+Heat_response	dnajb1b	ENSDARG00000041394	dnajb1b	211	348	337	71	13
+Heat_response	dnajb2	ENSDARG00000058644	dnajb2	8	5	2	3	4
+Heat_response	dnajb4	ENSDARG00000038978	dnajb4				0.8	13
+Heat_response	dnajb5							
+Heat_response	dnajb5	ENSDARG00000052881	dnajb5			0.7	0.8	5
+Heat_response	dnajb6a	ENSDARG00000004680	dnajb6a	256	210	157	47	75
+Heat_response	dnajb6b							
+Heat_response	dnajb6b	ENSDARG00000020953	dnajb6b	24	28	14	7	14
+Heat_response	dnajb9a	ENSDARG00000052072	dnajb9a	7	17	3	4	6
+Heat_response	dnajb9b	ENSDARG00000016886	dnajb9b	3	7	3	6	6
+Heat_response	dnajc1	ENSDARG00000001940	dnajc1	352	515	215	93	32
+Heat_response	dnajc10	ENSDARG00000074727	dnajc10	17	43	24	53	16
+Heat_response	dnajc11a							
+Heat_response	dnajc11a	ENSDARG00000011196	dnajc11a	70	107	78	83	31
+Heat_response	dnajc11b	ENSDARG00000102696	dnajc11b	1	0.8		1	7
+Heat_response	dnajc12	ENSDARG00000086691	dnajc12	2	1		3	7
+Heat_response	dnajc14	ENSDARG00000105398	dnajc14	2	27	13	6	2
+Heat_response	dnajc15	ENSDARG00000038309	dnajc15	17	38	22	8	18
+Heat_response	dnajc16	ENSDARG00000059699	dnajc16	0.3	1		2	3
+Heat_response	dnajc16l	ENSDARG00000060725	dnajc16l	29	17	4	11	13
+Heat_response	dnajc17	ENSDARG00000104959	dnajc17	43	21	26	12	5
+Heat_response	dnajc18	ENSDARG00000056005	dnajc18	139	119	10	16	26
+Heat_response	dnajc19	ENSDARG00000044420	dnajc19		5	5	21	37
+Heat_response	dnajc2	ENSDARG00000070477	dnajc2	70	38	17	32	8
+Heat_response	dnajc21	ENSDARG00000105195	dnajc21	11	42	19	24	5
+Heat_response	dnajc22	ENSDARG00000037067	dnajc22					4
+Heat_response	dnajc24	ENSDARG00000023927	dnajc24	5	24	2	3	2
+Heat_response	dnajc25							
+Heat_response	dnajc25	ENSDARG00000067613	dnajc25	11	102	43	32	10
+Heat_response	dnajc27	ENSDARG00000070916	dnajc27	7	11	5	5	8
+Heat_response	dnajc28							
+Heat_response	dnajc28	ENSDARG00000018181	dnajc28	11	8	0.8	4	7
+Heat_response	dnajc30b	ENSDARG00000079415	dnajc30b	0.5	8	6	6	6
+Heat_response	dnajc3a							
+Heat_response	dnajc3a	ENSDARG00000041110	dnajc3a	5	21	1	13	22
+Heat_response	dnajc3b	ENSDARG00000017874	dnajc3b	3	10	4	15	22
+Heat_response	dnajc4	ENSDARG00000024090	dnajc4	9	5	4	4	9
+Heat_response	dnajc5							
+Heat_response	dnajc5aa	ENSDARG00000042948	dnajc5aa	122	81	76	19	92
+Heat_response	dnajc5ab	ENSDARG00000004836	dnajc5ab	29	46	21	13	43
+Heat_response	dnajc5b	ENSDARG00000058147	dnajc5b					2
+Heat_response	dnajc5ga	ENSDARG00000041896	dnajc5ga	383	237	9	20	31
+Heat_response	dnajc5gb							
+Heat_response	dnajc5gb	ENSDARG00000017687	dnajc5gb	5	5	3	6	15
+Heat_response	dnajc6	ENSDARG00000079891	dnajc6	3	16	6	0.6	23
+Heat_response	dnajc7	ENSDARG00000058148	dnajc7	40	138	88	67	53
+Heat_response	dnajc8	ENSDARG00000059373	dnajc8	125	163	199	150	77
+Heat_response	dnajc9							
+Heat_response	dnajc9	ENSDARG00000031293	dnajc9	178	44	38	85	26
+Heat_response	hsbp1a	ENSDARG00000069425	hsbp1a	3	4	4	11	85
+Heat_response	hsbp1b	ENSDARG00000041921	hsbp1b	92	49	87	74	100
+Heat_response	hsbp1l1	ENSDARG00000075984	hsbp1l1	126	47	12		5
+Heat_response	hsf1	ENSDARG00000008818	hsf1	17	44	44	22	8
+Heat_response	hsf2	ENSDARG00000053097	hsf2	8	133	78	52	30
+Heat_response	hsf2bp	ENSDARG00000035080	hsf2bp	0.6	2	0.8		
+Heat_response	hsf4	ENSDARG00000013251	hsf4					5
+Heat_response	hsf5	ENSDARG00000104686	hsf5		0.4	0.5		
+Heat_response	hsp70.1	ENSDARG00000029688	hsp70.1		1			2
+Heat_response	hsp70.2	ENSDARG00000092362	hsp70.2		0.4	0.7	0.8	5
+Heat_response	hsp70.3	ENSDARG00000021924	hsp70.3	5	5	4	2	5
+Heat_response	hsp70l	ENSDARG00000055723	hsp70l			0.9	1	7
+Heat_response	hsp90aa1.1	ENSDARG00000010478	hsp90aa1.1	0.3	0.4	0.4	69	29
+Heat_response	hsp90aa1.2	ENSDARG00000024746	hsp90aa1.2	1	1	6	11	36
+Heat_response	hsp90ab1	ENSDARG00000029150	hsp90ab1	563	968	1383	2766	1551
+Heat_response	hsp90b1							
+Heat_response	hsp90b1	ENSDARG00000003570	hsp90b1	55	203	68	16	142
+Heat_response	hspa12a	ENSDARG00000070603	hspa12a	32	34	21	5	3
+Heat_response	hspa12b	ENSDARG00000030307	hspa12b				0.2	5
+Heat_response	hspa13	ENSDARG00000040984	hspa13	0.3	2	0.4	7	10
+Heat_response	hspa14							
+Heat_response	hspa14							
+Heat_response	hspa14	ENSDARG00000058030	hspa14	17	107	122	137	29
+Heat_response	hspa4a	ENSDARG00000004754	hspa4a	21	33	21	36	27
+Heat_response	hspa4b							
+Heat_response	hspa4b							
+Heat_response	hspa4b	ENSDARG00000018989	hspa4b	9	84	87	216	90
+Heat_response	hspa4l	ENSDARG00000053544	hspa4l			0.7	1	27
+Heat_response	hspa5	ENSDARG00000103846	hspa5	94	831	114	142	206
+Heat_response	hspa8							
+Heat_response	hspa8	ENSDARG00000068992	hspa8	2544	2332	4474	3761	3097
+Heat_response	hspa9							
+Heat_response	hspa9	ENSDARG00000003035	hspa9	36	196	174	125	94
+Heat_response	hspb1	ENSDARG00000041065	hspb1	21	7	2589	1620	36
+Heat_response	hspb11	ENSDARG00000002204	hspb11					36
+Heat_response	hspb15	ENSDARG00000078411	hspb15					13
+Heat_response	hspb2							
+Heat_response	hspb2	ENSDARG00000052450	hspb2					16
+Heat_response	hspb3							
+Heat_response	hspb3	ENSDARG00000067714	hspb3					16
+Heat_response	hspb6	ENSDARG00000077236	hspb6			0.4		34
+Heat_response	hspb7	ENSDARG00000104441	hspb7				0.7	26
+Heat_response	hspb8							
+Heat_response	hspb8	ENSDARG00000058365	hspb8			0.2	15	23
+Heat_response	hspb9	ENSDARG00000078674	hspb9				2	60
+Heat_response	hspd1	ENSDARG00000056160	hspd1	88	205	190	118	147
+Heat_response	hspe1	ENSDARG00000056167	hspe1	11	4	11	41	52
+Heat_response	hspg2	ENSDARG00000076564	hspg2	1	2	2	8	12
+Heat_response	hsph1	ENSDARG00000019874	hsph1	1	1	2	2	2
+Heat_response	serpinh1b	ENSDARG00000019949	serpinh1b	0.2		28	194	29
+Ion_transporters	SLC22A7	ENSDARG00000056652	zmp:0000001102					1
+Ion_transporters	SLC39A11	ENSDARG00000098194	SLC39A11	73	12	5	14	8
+Ion_transporters	SLCO3A1	ENSDARG00000068296	SLCO3A1			0.1	0.1	5
+Ion_transporters	slc22a13a	ENSDARG00000056551	slc22a13a		0.4		0.5	
+Ion_transporters	slc22a13b	ENSDARG00000059166	slc22a13b		0.5			1
+Ion_transporters	slc22a15	ENSDARG00000055445	slc22a15	0.6	2	2	9	9
+Ion_transporters	slc22a16	ENSDARG00000015869	slc22a16	0.4		6	1	9
+Ion_transporters	slc22a18	ENSDARG00000052271	slc22a18			0.4	7	25
+Ion_transporters	slc22a2	ENSDARG00000030530	slc22a2			3	2	9
+Ion_transporters	slc22a21	ENSDARG00000094112	slc22a21					2
+Ion_transporters	slc22a23	ENSDARG00000078856	slc22a23	5	16	6	5	9
+Ion_transporters	slc22a31	ENSDARG00000078882	slc22a31	18	34	27	31	15
+Ion_transporters	slc22a4	ENSDARG00000005335	slc22a4					
+Ion_transporters	slc22a5	ENSDARG00000101021	slc22a5			71	18	7
+Ion_transporters	slc22a6l	ENSDARG00000055523	slc22a6l					21
+Ion_transporters	slc22a7a	ENSDARG00000056028	slc22a7a					25
+Ion_transporters	slc22a7b.1							
+Ion_transporters	slc22a7b.1	ENSDARG00000056643	slc22a7b.1					1
+Ion_transporters	slc22a7b.2	ENSDARG00000091252	slc22a7b.2					2
+Ion_transporters	slc22a7b.3	ENSDARG00000062182	slc22a7b.3					0.4
+Ion_transporters	slc30a10	ENSDARG00000103983	slc30a10	0.9	3	1	0.7	6
+Ion_transporters	slc30a1a	ENSDARG00000005463	slc30a1a	7	7	62	35	29
+Ion_transporters	slc30a1b	ENSDARG00000053896	slc30a1b		5	4	20	5
+Ion_transporters	slc30a2	ENSDARG00000021305	slc30a2					1
+Ion_transporters	slc30a4	ENSDARG00000007180	slc30a4	105	57	6	8	20
+Ion_transporters	slc30a5	ENSDARG00000051921	slc30a5	16	47	15	28	24
+Ion_transporters	slc30a6	ENSDARG00000077368	slc30a6	22	23	27	22	13
+Ion_transporters	slc30a7							
+Ion_transporters	slc30a7	ENSDARG00000019998	slc30a7	42	119	121	93	40
+Ion_transporters	slc30a8	ENSDARG00000100917	slc30a8			16	6	3
+Ion_transporters	slc30a9	ENSDARG00000057272	slc30a9	32	87	6	14	30
+Ion_transporters	slc31a1							
+Ion_transporters	slc31a1	ENSDARG00000013961	slc31a1	24	51	38	54	28
+Ion_transporters	slc31a2	ENSDARG00000076092	slc31a2	16	19	4	9	4
+Ion_transporters	slc39a1							
+Ion_transporters	slc39a1	ENSDARG00000058257	slc39a1	45	33	76	11	7
+Ion_transporters	slc39a10	ENSDARG00000005823	slc39a10	11	25	21	24	15
+Ion_transporters	slc39a13	ENSDARG00000000442	slc39a13	23	120	37	27	18
+Ion_transporters	slc39a14	ENSDARG00000102387	slc39a14	8	21	4	7	2
+Ion_transporters	slc39a3	ENSDARG00000101434	ENSDARG00000101434				1	3
+Ion_transporters	slc39a4	ENSDARG00000059361	slc39a4	1			1	4
+Ion_transporters	slc39a5	ENSDARG00000079525	slc39a5			71	14	4
+Ion_transporters	slc39a6	ENSDARG00000068143	slc39a6	8	131	61	88	22
+Ion_transporters	slc39a7	ENSDARG00000104451	slc39a7	14	72	66	201	61
+Ion_transporters	slc39a8	ENSDARG00000056757	slc39a8					5
+Ion_transporters	slc39a9	ENSDARG00000070447	slc39a9	19	49	24	41	23
+Ion_transporters	slc47a1	ENSDARG00000046012	slc47a1			0.8	18	3
+Ion_transporters	slc47a2.1	ENSDARG00000060051	slc47a2.1	0.2	0.1	0.3	0.5	3
+Ion_transporters	slc47a2.2	ENSDARG00000074136	slc47a2.2			2	0.9	
+Ion_transporters	slc47a3	ENSDARG00000074561	slc47a3	4	4	1		3
+Ion_transporters	slc47a4	ENSDARG00000079340	slc47a4		1	19	8	5
+Ion_transporters	slco1c1	ENSDARG00000016749	slco1c1	0.6	6	2	0.4	5
+Ion_transporters	slco1d1	ENSDARG00000104108	slco1d1			32	7	35
+Ion_transporters	slco1e1	ENSDARG00000100780	slco1e1			0.3		2
+Ion_transporters	slco1f1							
+Ion_transporters	slco1f2	ENSDARG00000101156	slco1f2			0.2		
+Ion_transporters	slco1f3							
+Ion_transporters	slco1f4							
+Ion_transporters	slco2a1	ENSDARG00000061896	slco2a1			0.5	0.9	8
+Ion_transporters	slco2b1	ENSDARG00000054609	slco2b1	0.2	0.3			8
+Ion_transporters	slco3a1	ENSDARG00000018726	slco3a1			0.6	1	8
+Ion_transporters	slco4a1	ENSDARG00000075948	slco4a1	0.2	1	0.7	0.3	5
+Ion_transporters	slco5a1a	ENSDARG00000071685	slco5a1a		0.4	0.1	0.6	5
+Ion_transporters	slco5a1b	ENSDARG00000086104	slco5a1a	16	19	1	4	26
+Metal_response	HMOX1							
+Metal_response	cp	ENSDARG00000010312	cp				1	49
+Metal_response	fth1a	ENSDARG00000015551	fth1a	179	1483	2358	1865	1307
+Metal_response	fth1b	ENSDARG00000007975	fth1b	1	2	2	5	30
+Metal_response	fthl27							
+Metal_response	fthl27	ENSDARG00000031776	fthl27	343	972	1026	549	144
+Metal_response	fthl28	ENSDARG00000076221	fthl28	65	164	131	75	60
+Metal_response	fthl29							
+Metal_response	fthl30	ENSDARG00000077360	fthl30	19	53	52	27	10
+Metal_response	fthl31	ENSDARG00000094210	fthl31	29	64	73	44	29
+Metal_response	hmox1a	ENSDARG00000027529	hmox1a			6	13	18
+Metal_response	hmox2a							
+Metal_response	hmox2a	ENSDARG00000055101	ENSDARG00000055101	1	16	24	28	19
+Metal_response	hmox2b							
+Metal_response	hmox2b	ENSDARG00000078452	hmox2b	10	32	23	4	3
+Metal_response	tfa	ENSDARG00000016771	tfa		0.5	35	315	858
+Nuclear_receptors	ar							
+Nuclear_receptors	ar	ENSDARG00000067976	ar	1	2	2	2	2
+Nuclear_receptors	esr1							
+Nuclear_receptors	esr1	ENSDARG00000004111	esr1					0.2
+Nuclear_receptors	esr2a	ENSDARG00000016454	esr2a	0.5	2			0.6
+Nuclear_receptors	esr2b	ENSDARG00000034181	esr2b			0.1	0.2	0.8
+Nuclear_receptors	esrra	ENSDARG00000069266	esrra	6	13	6	13	17
+Nuclear_receptors	esrrb	ENSDARG00000100847	esrrb	4	10	1		9
+Nuclear_receptors	esrrd	ENSDARG00000015064	esrrd		0.9	1		3
+Nuclear_receptors	esrrga	ENSDARG00000004861	esrrga	0.4	2	5	6	40
+Nuclear_receptors	esrrgb	ENSDARG00000011696	esrrgb	4	9		0.4	1
+Nuclear_receptors	hnf4a							
+Nuclear_receptors	hnf4a	ENSDARG00000021494	hnf4a			84	4	10
+Nuclear_receptors	hnf4b	ENSDARG00000104742	hnf4b	0.6	2	4	26	6
+Nuclear_receptors	hnf4g	ENSDARG00000071565	hnf4g		0.4		0.2	5
+Nuclear_receptors	nr1h3	ENSDARG00000098439	nr1h3	7	26	2	9	14
+Nuclear_receptors	nr1h4	ENSDARG00000057741	nr1h4	2	0.9			7
+Nuclear_receptors	nr1h5							
+Nuclear_receptors	nr1h5	ENSDARG00000031046	nr1h5				0.4	2
+Nuclear_receptors	nr1i2	ENSDARG00000029766	nr1i2		0.5	0.6	1	7
+Nuclear_receptors	nr3c1							
+Nuclear_receptors	nr3c1							
+Nuclear_receptors	nr3c1	ENSDARG00000025032	nr3c1	7	32	3	14	29
+Nuclear_receptors	nr3c2							
+Nuclear_receptors	nr3c2	ENSDARG00000102082	nr3c2					2
+Nuclear_receptors	pgr	ENSDARG00000035966	pgr					
+Nuclear_receptors	pparaa	ENSDARG00000031777	pparaa	0.1	2	0.1	0.1	4
+Nuclear_receptors	pparab	ENSDARG00000054323	pparab	3	6	3		1
+Nuclear_receptors	pparda	ENSDARG00000044525	pparda	4	9	2	0.4	6
+Nuclear_receptors	ppardb	ENSDARG00000009473	ppardb	5	12	7	17	18
+Nuclear_receptors	pparg	ENSDARG00000031848	pparg	9	11	3	1	6
+Nuclear_receptors	ppargc1a	ENSDARG00000067829	ppargc1a	0.2			2	9
+Nuclear_receptors	ppargc1b	ENSDARG00000101569	ppargc1b	0.1	1	0.1	3	21
+Nuclear_receptors	raraa	ENSDARG00000056783	raraa	2	4	18	61	22
+Nuclear_receptors	rarab							
+Nuclear_receptors	rarab	ENSDARG00000034893	rarab	68	152	54	58	19
+Nuclear_receptors	rarga	ENSDARG00000034117	rarga	5	14	2	59	47
+Nuclear_receptors	rargb	ENSDARG00000054003	rargb	0.2	1	0.5	1	2
+Nuclear_receptors	rxraa	ENSDARG00000057737	rxraa		0.3		5	15
+Nuclear_receptors	rxrab	ENSDARG00000035127	rxrab	0.5	2			0.9
+Nuclear_receptors	rxrba	ENSDARG00000078954	rxrba	42	66	73	41	22
+Nuclear_receptors	rxrbb							
+Nuclear_receptors	rxrbb	ENSDARG00000002006	rxrbb	8	22	7	10	11
+Nuclear_receptors	rxrgb	ENSDARG00000004697	rxrgb			0.9	8	18
+Nuclear_receptors	thraa	ENSDARG00000000151	thraa	5	30	1	1	5
+Nuclear_receptors	thrab	ENSDARG00000052654	thrab		3		0.9	8
+Nuclear_receptors	thrb	ENSDARG00000021163	thrb	0.7	5	0.2	3	12
+Nuclear_receptors	vdra	ENSDARG00000099483	vdra	3	16	3	0.8	2
+Nuclear_receptors	vdrb							
+Nuclear_receptors	vdrb	ENSDARG00000070721	vdrb	6	9	7	2	7
+Oxidative_stress	bach1a	ENSDARG00000062553	bach1a	2	13	2	2	3
+Oxidative_stress	bach1b	ENSDARG00000002196	bach1b			1	8	8
+Oxidative_stress	bach2a	ENSDARG00000036569	bach2a	5	11	2	0.7	1
+Oxidative_stress	bach2b	ENSDARG00000004074	bach2b	1	2	0.3	2	10
+Oxidative_stress	keap1a	ENSDARG00000016132	keap1a	0.3	4	2	7	8
+Oxidative_stress	keap1b	ENSDARG00000074634	keap1b	11	25	33	40	17
+Oxidative_stress	maff							
+Oxidative_stress	maff	ENSDARG00000028957	maff	6	6	34	29	51
+Oxidative_stress	mafga	ENSDARG00000018109	mafga					3
+Oxidative_stress	mafgb	ENSDARG00000100097	mafgb	4	7	0.6	1	3
+Oxidative_stress	mafk	ENSDARG00000100947	mafk	0.6	5	2	1	4
+Oxidative_stress	nfe2	ENSDARG00000020606	nfe2					1
+Oxidative_stress	nfe2l1a							
+Oxidative_stress	nfe2l1a	ENSDARG00000030616	nfe2l1a			2	0.9	5
+Oxidative_stress	nfe2l1b							
+Oxidative_stress	nfe2l1b	ENSDARG00000076533	nfe2l1b	1	2	2	14	9
+Oxidative_stress	nfe2l2a	ENSDARG00000042824	nfe2l2a		0.8	0.1	2	52
+Oxidative_stress	nfe2l2b	ENSDARG00000089697	nfe2l2b		0.7	0.5	1	5
+Oxidative_stress	nfe2l3	ENSDARG00000019810	nfe2l3	18	62	52	81	23
+Oxidative_stress	nfkb1	ENSDARG00000105261	nfkb1	11	16	5	3	2
+Oxidative_stress	nfkb2							
+Oxidative_stress	nfkb2	ENSDARG00000038687	nfkb2	44	34	7	12	8
+Phase_II_transferases	NAT16	ENSDARG00000076402	nat16l		0.3			1
+Phase_II_transferases	aanat1	ENSDARG00000036567	aanat1	0.8	1	2		2
+Phase_II_transferases	aanat2	ENSDARG00000079802	aanat2	3	4	4	4	3
+Phase_II_transferases	gsta.1							
+Phase_II_transferases	gsta.1	ENSDARG00000090228	gsta.1	2		10	30	106
+Phase_II_transferases	gsta.2							
+Phase_II_transferases	gsta.2	ENSDARG00000039832	gsta.2			2	7	24
+Phase_II_transferases	gstk1	ENSDARG00000056510	gstk1			0.6	2	38
+Phase_II_transferases	gstk2							
+Phase_II_transferases	gstk4	ENSDARG00000092052	gstk4					
+Phase_II_transferases	gstk4	ENSDARG00000093119	gstk4				2	
+Phase_II_transferases	gstm.1	ENSDARG00000042533	gstm.1	72	214	43	111	87
+Phase_II_transferases	gstm.2	ENSDARG00000029473	gstm.2	2	10	2	5	4
+Phase_II_transferases	gstm.3	ENSDARG00000088116	gstm.3	3	2	1	1	32
+Phase_II_transferases	gstp1	ENSDARG00000104068	gstp1	808	504	72	103	660
+Phase_II_transferases	gstp2	ENSDARG00000103019	gstp2					17
+Phase_II_transferases	gstt1a							
+Phase_II_transferases	gstt1a	ENSDARG00000042428	gstt1a	1	0.6	2	1	111
+Phase_II_transferases	gstt1b							
+Phase_II_transferases	gstt1b	ENSDARG00000017388	gstt1b	3	19	15	3	23
+Phase_II_transferases	gstt2							
+Phase_II_transferases	gstt2	ENSDARG00000095464	gstt2		0.1	1	5	12
+Phase_II_transferases	gstz1	ENSDARG00000027984	gstz1		0.7		4	19
+Phase_II_transferases	mgst1.1							
+Phase_II_transferases	mgst1.1	ENSDARG00000032618	mgst1.1			4	9	13
+Phase_II_transferases	mgst1.2							
+Phase_II_transferases	mgst1.2	ENSDARG00000022165	mgst1.2	0.4	4	11	27	18
+Phase_II_transferases	mgst2	ENSDARG00000071345	mgst2	7	9	82	69	38
+Phase_II_transferases	mgst3a	ENSDARG00000102744	mgst3a	14	17	10	29	93
+Phase_II_transferases	mgst3b	ENSDARG00000033364	mgst3b	34	67	215	217	153
+Phase_II_transferases	nat10	ENSDARG00000054259	nat10	20	75	56	116	16
+Phase_II_transferases	nat14							
+Phase_II_transferases	nat15	ENSDARG00000061185	nat15	84	44	11	10	22
+Phase_II_transferases	nat16	ENSDARG00000086222	nat16				5	17
+Phase_II_transferases	nat8l							
+Phase_II_transferases	nat8l	ENSDARG00000077256	nat8l			2	42	56
+Phase_II_transferases	nat9							
+Phase_II_transferases	nat9	ENSDARG00000071425	nat9	4	4	29	56	31
+Phase_II_transferases	sult1st1	ENSDARG00000028275	sult1st1			0.3	1	26
+Phase_II_transferases	sult1st2	ENSDARG00000041540	sult1st2					
+Phase_II_transferases	sult1st3	ENSDARG00000018361	sult1st3	0.4				0.7
+Phase_II_transferases	sult1st4	ENSDARG00000003181	sult1st4					6
+Phase_II_transferases	sult1st5							
+Phase_II_transferases	sult1st5	ENSDARG00000003475	sult1st5					1
+Phase_II_transferases	sult1st6	ENSDARG00000006811	sult1st6					11
+Phase_II_transferases	sult1st7	ENSDARG00000079079	sult1st7					
+Phase_II_transferases	sult1st9							
+Phase_II_transferases	sult2st1	ENSDARG00000033170	sult2st1		0.7	1	31	44
+Phase_II_transferases	sult2st2	ENSDARG00000103785	sult2st2			0.8	5	69
+Phase_II_transferases	sult2st3	ENSDARG00000028367	sult2st3	0.9		1	2	4
+Phase_II_transferases	sult3st1	ENSDARG00000009885	sult3st1	1	2	0.6	0.3	
+Phase_II_transferases	sult3st2							
+Phase_II_transferases	sult3st2	ENSDARG00000093619	sult3st2					3
+Phase_II_transferases	sult3st3							
+Phase_II_transferases	sult3st3	ENSDARG00000042920	sult3st3					4
+Phase_II_transferases	sult3st4							
+Phase_II_transferases	sult3st4	ENSDARG00000040781	sult3st4					2
+Phase_II_transferases	sult4a1	ENSDARG00000101967	sult4a1					25
+Phase_II_transferases	sult5a1	ENSDARG00000007769	sult5a1					0.4
+Phase_II_transferases	sult6b1	ENSDARG00000086826	sult6b1			497	62	55
+Phase_II_transferases	ugt1a7	ENSDARG00000006220	ugt1a1	0.3	0.4		0.2	24
+Phase_II_transferases	ugt1b1	ENSDARG00000097491	ugt1b1			1	4	18
+Phase_II_transferases	ugt1b2	ENSDARG00000097231	ugt1b2			0.6		2
+Phase_II_transferases	ugt1b3	ENSDARG00000097979	ugt1b3			1		
+Phase_II_transferases	ugt1b4	ENSDARG00000097024	ugt1b4			1		
+Phase_II_transferases	ugt1b5	ENSDARG00000089507	ugt1b5			4	17	18
+Phase_II_transferases	ugt1b6p	ENSDARG00000103761	ugt1b6p			4		
+Phase_II_transferases	ugt1b7	ENSDARG00000101176	ugt1b7			3	2	2
+Phase_II_transferases	ugt2a1	ENSDARG00000051940	ugt2a4	14	9	2	0.8	10
+Phase_II_transferases	ugt2a4							
+Phase_II_transferases	ugt2a5							
+Phase_II_transferases	ugt2a5	ENSDARG00000011537	ugt2a5	0.2	0.4	1	3	3
+Phase_II_transferases	ugt2a6	ENSDARG00000039501	ugt2a6	1	0.6		1	2
+Phase_II_transferases	ugt2a7							
+Phase_II_transferases	ugt2a7	ENSDARG00000091624	ugt2a7	0.1	0.1		1	8
+Phase_II_transferases	ugt2a7	ENSDARG00000093043	ugt2a7					5
+Phase_II_transferases	ugt2b3							
+Phase_II_transferases	ugt5a1	ENSDARG00000016479	ugt5a1					2
+Phase_II_transferases	ugt5a2	ENSDARG00000093640	ugt5a2				0.6	0.6
+Phase_II_transferases	ugt5b1	ENSDARG00000104995	ugt5b1			0.4	0.4	4
+Phase_II_transferases	ugt5b2	ENSDARG00000101495	ugt5b2		0.8		0.4	4
+Phase_II_transferases	ugt5b3	ENSDARG00000099276	ugt5b2					7
+Phase_II_transferases	ugt5b4	ENSDARG00000091916	ugt5b4	0.3	0.2			13
+Phase_II_transferases	ugt5b4	ENSDARG00000097397	ugt5a4				4	
+Phase_II_transferases	ugt5b5	ENSDARG00000104203	ugt5b5					
+Phase_II_transferases	ugt5c1	ENSDARG00000061444	ugt5c1					0.4
+Phase_II_transferases	ugt5c2	ENSDARG00000006372	ugt5c2					0.5
+Phase_II_transferases	ugt5c3	ENSDARG00000061439	ugt5c3	0.6	3		2	4
+Phase_II_transferases	ugt5d1	ENSDARG00000002394	ugt5d1					8
+Phase_II_transferases	ugt5e1	ENSDARG00000058048	ugt5e1				0.4	5
+Phase_II_transferases	ugt5f1	ENSDARG00000054835	ugt5f1	5	12	5	2	3
+Phase_II_transferases	ugt5g1							
+Phase_II_transferases	ugt5g1	ENSDARG00000032862	ugt5g1	3	12	2	7	5
+Phase_II_transferases	ugt5g2							
+Phase_II_transferases	ugt5g2							
+Phase_II_transferases	ugt8							
+Phase_II_transferases	ugt8	ENSDARG00000037455	ugt8	0.8	0.9	0.8	4	13
+Phase_I_oxygenases	adh5							
+Phase_I_oxygenases	adh5	ENSDARG00000080010	adh5	74	86	92	66	139
+Phase_I_oxygenases	adh8a							
+Phase_I_oxygenases	adh8a	ENSDARG00000091211	adh8a		2	1		
+Phase_I_oxygenases	adh8b							
+Phase_I_oxygenases	adh8b	ENSDARG00000024278	adh8b	7	30	23	24	81
+Phase_I_oxygenases	aldh16a1	ENSDARG00000037935	aldh16a1	30	48	6	3	16
+Phase_I_oxygenases	aldh18a1	ENSDARG00000099579	aldh18a1	78	157	125	3	27
+Phase_I_oxygenases	aldh1a2							
+Phase_I_oxygenases	aldh1a2	ENSDARG00000053493	aldh1a2			33	44	36
+Phase_I_oxygenases	aldh1a3	ENSDARG00000076933	aldh1a3				1	5
+Phase_I_oxygenases	aldh1l1							
+Phase_I_oxygenases	aldh1l1	ENSDARG00000077004	aldh1l1	16	30	14	8	46
+Phase_I_oxygenases	aldh1l2	ENSDARG00000070230	aldh1l2	4	7	9	20	14
+Phase_I_oxygenases	aldh2.1	ENSDARG00000089924	aldh2.1	2	6	5	6	17
+Phase_I_oxygenases	aldh2.2	ENSDARG00000028087	aldh2.2	22	30	24	2	21
+Phase_I_oxygenases	aldh3a1	ENSDARG00000074791	aldh3a1	5	7	3	1	2
+Phase_I_oxygenases	aldh3a2a	ENSDARG00000028259	aldh3a2a	62	88	8	6	13
+Phase_I_oxygenases	aldh3a2b	ENSDARG00000029381	aldh3a2b				4	6
+Phase_I_oxygenases	aldh3b1	ENSDARG00000013839	aldh3b1	37	62	70	45	14
+Phase_I_oxygenases	aldh3b2	ENSDARG00000035606	aldh3b2			0.7		3
+Phase_I_oxygenases	aldh4a1	ENSDARG00000038207	aldh4a1	4	4	7	53	26
+Phase_I_oxygenases	aldh5a1							
+Phase_I_oxygenases	aldh5a1	ENSDARG00000076544	aldh5a1	0.5	0.7	0.1	2	12
+Phase_I_oxygenases	aldh6a1	ENSDARG00000053485	aldh6a1	16	74	79	35	197
+Phase_I_oxygenases	aldh7a1	ENSDARG00000018426	aldh7a1	70	82	6	35	120
+Phase_I_oxygenases	aldh8a1							
+Phase_I_oxygenases	aldh8a1	ENSDARG00000036776	aldh8a1	3	4	2	2	27
+Phase_I_oxygenases	aldh9a1a.1							
+Phase_I_oxygenases	aldh9a1a.1	ENSDARG00000069100	aldh9a1a.1	144	152	174	39	192
+Phase_I_oxygenases	aldh9a1a.2							
+Phase_I_oxygenases	aldh9a1a.2	ENSDARG00000055331	aldh9a1a.2	2	2	7	2	2
+Phase_I_oxygenases	aldh9a1b	ENSDARG00000037061	aldh9a1b	13	41	36	35	22
+Phase_I_oxygenases	cyp1a	ENSDARG00000098315	cyp1a	0.8	0.4		0.3	8
+Phase_I_oxygenases	cyp1b1							
+Phase_I_oxygenases	cyp1b1	ENSDARG00000068934	cyp1b1					2
+Phase_I_oxygenases	cyp1c1	ENSDARG00000101195	ENSDARG00000101195				1	9
+Phase_I_oxygenases	cyp1c2	ENSDARG00000101789	cyp1c2					2
+Phase_I_oxygenases	cyp1d1	ENSDARG00000035569	cyp1d1	5	7	10	8	16
+Phase_I_oxygenases	cyp2aa1	ENSDARG00000099003	cyp2aa1				3	10
+Phase_I_oxygenases	cyp2aa11	ENSDARG00000103456	cyp2aa11			0.5	9	1
+Phase_I_oxygenases	cyp2aa12	ENSDARG00000102805	cyp2aa12			2	4	3
+Phase_I_oxygenases	cyp2aa2	ENSDARG00000104811	cyp2aa2			9	7	7
+Phase_I_oxygenases	cyp2aa3	ENSDARG00000103347	cyp2aa3		0.6	8	70	16
+Phase_I_oxygenases	cyp2aa4	ENSDARG00000098803	cyp2aa4		0.8	45	67	31
+Phase_I_oxygenases	cyp2aa6	ENSDARG00000103590	cyp2aa6				5	8
+Phase_I_oxygenases	cyp2aa7	ENSDARG00000103766	cyp2aa7				0.5	1
+Phase_I_oxygenases	cyp2aa8	ENSDARG00000104540	cyp2aa8			31	33	7
+Phase_I_oxygenases	cyp2aa9	ENSDARG00000098890	cyp2aa9		0.9	2	40	6
+Phase_I_oxygenases	cyp2ad2	ENSDARG00000021172	cyp2ad2					3
+Phase_I_oxygenases	cyp2ad3	ENSDARG00000022650	cyp2ad3	2	3	0.5	3	46
+Phase_I_oxygenases	cyp2ad6	ENSDARG00000042956	cyp2ad6	0.4				2
+Phase_I_oxygenases	cyp2ae1	ENSDARG00000013524	cyp2ae1		4	0.4	0.6	2
+Phase_I_oxygenases	cyp2j20	ENSDARG00000094057	cyp2j20	0.5		0.5	1	3
+Phase_I_oxygenases	cyp2k16	ENSDARG00000102981	cyp2k16			0.7	14	18
+Phase_I_oxygenases	cyp2k17	ENSDARG00000104529	cyp2k17					0.5
+Phase_I_oxygenases	cyp2k18	ENSDARG00000104593	cyp2k18			0.7		6
+Phase_I_oxygenases	cyp2k19	ENSDARG00000101861	cyp2k19			0.3		5
+Phase_I_oxygenases	cyp2k20							
+Phase_I_oxygenases	cyp2k21	ENSDARG00000105151	cyp2k21					1
+Phase_I_oxygenases	cyp2k22							
+Phase_I_oxygenases	cyp2k6	ENSDARG00000009874	cyp2k6				0.5	
+Phase_I_oxygenases	cyp2k6	ENSDARG00000098995	cyp2k6			0.3		
+Phase_I_oxygenases	cyp2k8	ENSDARG00000101190	cyp2k8			16	7	5
+Phase_I_oxygenases	cyp2n13	ENSDARG00000042953	cyp2n13					2
+Phase_I_oxygenases	cyp2p10	ENSDARG00000042990	cyp2p10	31	36	7	21	11
+Phase_I_oxygenases	cyp2p6	ENSDARG00000042978	cyp2p6		0.5	3	2	6
+Phase_I_oxygenases	cyp2p7	ENSDARG00000042980	cyp2p7		1	25	5	2
+Phase_I_oxygenases	cyp2p8	ENSDARG00000042982	cyp2p8	0.5	1	3	1	12
+Phase_I_oxygenases	cyp2p9	ENSDARG00000022631	cyp2p9			2	3	10
+Phase_I_oxygenases	cyp2r1	ENSDARG00000056587	cyp2r1	21	28	1	1	4
+Phase_I_oxygenases	cyp2u1	ENSDARG00000026548	cyp2u1	0.5	3		0.4	2
+Phase_I_oxygenases	cyp2v1	ENSDARG00000018485	cyp2v1	9	13	2	5	16
+Phase_I_oxygenases	cyp2x10.2							
+Phase_I_oxygenases	cyp2x10.2	ENSDARG00000006501	cyp2x10.2					3
+Phase_I_oxygenases	cyp2x10.2	ENSDARG00000068283	cyp2x10.2					0.5
+Phase_I_oxygenases	cyp2x12	ENSDARG00000092091	cyp2x12					0.4
+Phase_I_oxygenases	cyp2x6							
+Phase_I_oxygenases	cyp2x6	ENSDARG00000079653	cyp2x6			68	8	
+Phase_I_oxygenases	cyp2x7							
+Phase_I_oxygenases	cyp2x7	ENSDARG00000044002	cyp2x7	14	50	6	8	5
+Phase_I_oxygenases	cyp2x8							
+Phase_I_oxygenases	cyp2x8	ENSDARG00000043997	cyp2x8			1	0.4	
+Phase_I_oxygenases	cyp2x9							
+Phase_I_oxygenases	cyp2x9	ENSDARG00000070775	cyp2x9					5
+Phase_I_oxygenases	cyp2y3	ENSDARG00000068493	cyp2y3	0.5		2		4
+Phase_I_oxygenases	cyp2y3	ENSDARG00000101423	cyp2y3	0.7	2	79	65	47
+Phase_I_oxygenases	cyp3a65	ENSDARG00000103295	cyp3a65				0.3	9
+Phase_I_oxygenases	cyp3c1	ENSDARG00000015575	cyp3c1	31	22	3	12	32
+Phase_I_oxygenases	cyp3c3	ENSDARG00000037873	cyp3c3	0.4	0.3	1	2	2
+Phase_I_oxygenases	cyp3c3	ENSDARG00000037874	cyp3c3			0.6	2	0.5
+Phase_I_oxygenases	cyp3c4	ENSDARG00000070021	cyp3c4			0.4	0.8	3
+Phase_I_oxygenases	cyp4f3	ENSDARG00000053530	cyp4f3					
+Phase_I_oxygenases	cyp4t8							
+Phase_I_oxygenases	cyp4t8	ENSDARG00000004964	cyp4t8	0.4	0.5		1	5
+Phase_I_oxygenases	cyp4v7							
+Phase_I_oxygenases	cyp4v7	ENSDARG00000061585	cyp4v7	0.1	0.3	1	0.3	3
+Phase_I_oxygenases	cyp4v8							
+Phase_I_oxygenases	cyp4v8	ENSDARG00000062132	cyp4v8					16
+Phase_I_oxygenases	fmo5							
+Phase_I_oxygenases	fmo5	ENSDARG00000016357	fmo5	3	7	6	35	12
+Phase_I_oxygenases	ptgs1	ENSDARG00000052148	ptgs1		2	0.4	61	13
+Phase_I_oxygenases	ptgs2a	ENSDARG00000004539	ptgs2a			30	33	32
+Phase_I_oxygenases	ptgs2b	ENSDARG00000010276	ptgs2b	0.3		21	9	10
+Phase_I_reductases	akr1a1a							
+Phase_I_reductases	akr1a1a	ENSDARG00000035257	akr1a1a					10
+Phase_I_reductases	akr1a1b							
+Phase_I_reductases	akr1a1b	ENSDARG00000052030	akr1a1b	10	46	33	32	27
+Phase_I_reductases	akr1b1	ENSDARG00000006215	akr1b1.1			0.7	5	44
+Phase_I_reductases	akr7a3	ENSDARG00000016649	akr7a3	17	36	17	15	28
+Phase_I_reductases	ephx1	ENSDARG00000042854	ephx1	4	30	3	6	14
+Phase_I_reductases	ephx2	ENSDARG00000040255	ephx2	5	13	16	6	20
+Phase_I_reductases	ephx4							
+Phase_I_reductases	ephx4							
+Phase_I_reductases	ephx4	ENSDARG00000099515	ephx4	0.8	0.7		0.8	6
+Phase_I_reductases	ephx5	ENSDARG00000103298	ephx5	9	48	32	11	13
+Phase_I_reductases	hsd11b1la							
+Phase_I_reductases	hsd11b1la	ENSDARG00000071377	hsd11b1la	1	2	6	12	30
+Phase_I_reductases	hsd11b1lb							
+Phase_I_reductases	hsd11b2	ENSDARG00000001975	hsd11b2				2	36
+Phase_I_reductases	hsd17b1							
+Phase_I_reductases	hsd17b10	ENSDARG00000017781	hsd17b10	90	134	154	32	57
+Phase_I_reductases	hsd17b12a	ENSDARG00000015709	hsd17b12a	165	269	452	83	36
+Phase_I_reductases	hsd17b12b	ENSDARG00000035872	hsd17b12b	58	73	10	18	31
+Phase_I_reductases	hsd17b14	ENSDARG00000054842	hsd17b14	0.6	0.7	97	33	8
+Phase_I_reductases	hsd17b2	ENSDARG00000045553	hsd17b2	1	2	5	16	2
+Phase_I_reductases	hsd17b3							
+Phase_I_reductases	hsd17b3							
+Phase_I_reductases	hsd17b3	ENSDARG00000023287	hsd17b3				2	0.9
+Phase_I_reductases	hsd17b4	ENSDARG00000101239	hsd17b4	12	18	1	8	22
+Phase_I_reductases	hsd17b7	ENSDARG00000088140	hsd17b7		1	0.4	3	13
+Phase_I_reductases	hsd17b8	ENSDARG00000001169	hsd17b8	7	14	4	0.4	6
+Phase_I_reductases	hsd20b2							
+Phase_I_reductases	hsd20b2	ENSDARG00000031336	hsd20b2			26	4	12
+Phase_I_reductases	hsd3b1	ENSDARG00000069926	hsd3b1	3	1	1		1
+Phase_I_reductases	hsd3b2							
+Phase_I_reductases	hsd3b2	ENSDARG00000019747	hsd3b2	3	17	73	52	
+Phase_I_reductases	hsd3b7							
+Phase_I_reductases	hsd3b7							
+Phase_I_reductases	hsd3b7	ENSDARG00000036966	hsd3b7	19	23	0.5	0.8	8
+Phase_I_reductases	hsdl1	ENSDARG00000041736	hsdl1	8	11	2	5	4
+Phase_I_reductases	hsdl2	ENSDARG00000002523	hsdl2	62	40	33	41	38
+Phase_I_reductases	nqo1	ENSDARG00000010250	nqo1	26	16	105	74	80
