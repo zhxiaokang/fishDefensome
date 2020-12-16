@@ -7,7 +7,6 @@ clpp
 clpx
 grp78
 grp94
-hsp
 serpinh1b
 ppara
 ppard
