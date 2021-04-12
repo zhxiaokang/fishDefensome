@@ -1,0 +1,13 @@
+gene.id	gene.name	category
+ENSGACG00000008399	abcb6b	ABC_transporters
+ENSGACG00000002427	gpx9	Antioxidants
+ENSGACG00000020643	cryaba	Heat_response
+ENSGACG00000016570	dnajb4	Heat_response
+ENSGACG00000017814	slc22a7b.3	Ion_transporters
+ENSGACG00000012152	slc30a2	Ion_transporters
+ENSGACG00000008749	slco1c1	Ion_transporters
+ENSGACG00000012162	pgr	Nuclear_receptors
+ENSGACG00000014101	mafk	Oxidative_stress
+ENSGACG00000007070	aanat1	Phase_II_transferases
+ENSGACG00000013957	aanat2	Phase_II_transferases
+ENSGACG00000019954	ugt5g1	Phase_II_transferases

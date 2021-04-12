@@ -1,0 +1,14 @@
+gene.id	gene.name	category
+ENSGACG00000010455	gpx1a	Antioxidants
+ENSGACG00000009104	dnajc22	Heat_response
+ENSGACG00000012875	hsp90aa1.1	Heat_response
+ENSGACG00000020613	slc47a1	Ion_transporters
+ENSGACG00000001880	slco2b1	Ion_transporters
+ENSGACG00000006771	hmox1a	Metal_response
+ENSGACG00000015459	sult5a1	Phase_II_transferases
+ENSGACG00000011442	ugt5e1	Phase_II_transferases
+ENSGACG00000011258	aldh1l1	Phase_I_oxygenases
+ENSGACG00000011514	cyp1d1	Phase_I_oxygenases
+ENSGACG00000011276	cyp2k8	Phase_I_oxygenases
+ENSGACG00000013921	ptgs1	Phase_I_oxygenases
+ENSGACG00000009687	akr1a1a	Phase_I_reductases

@@ -1,0 +1,9 @@
+gene.id	gene.name	category
+ENSGACG00000006375	serpinh1b	Heat_response
+ENSGACG00000019066	slco1d1	Ion_transporters
+ENSGACG00000011685	rxrgb	Nuclear_receptors
+ENSGACG00000014744	gstt1a	Phase_II_transferases
+ENSGACG00000015825	aldh1a2	Phase_I_oxygenases
+ENSGACG00000014674	cyp1a	Phase_I_oxygenases
+ENSGACG00000012840	cyp2y3	Phase_I_oxygenases
+ENSGACG00000017514	hsd11b2	Phase_I_reductases

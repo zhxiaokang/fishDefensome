@@ -1,0 +1,7 @@
+gene.id	gene.name	category
+ENSGACG00000011273	cyp2k19	Phase_I_oxygenases
+ENSGACG00000003752	nqo1	Phase_I_reductases
+ENSGACG00000003762	nqo1	Phase_I_reductases
+ENSGACG00000003764	nqo1	Phase_I_reductases
+ENSGACG00000003776	nqo1	Phase_I_reductases
+ENSGACG00000003788	nqo1	Phase_I_reductases
